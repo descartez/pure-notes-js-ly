@@ -1,10 +1,3 @@
-#Zenefits Coding Challenge:
-####Ryan Stong
-
-####rvanstong@gmail.com
-
-####[descartez.github.io](http://descartez.github.io/ "personal site")
-
 
 ##Challenge:
 Create a mobile web app that allows you create, edit, and view short notes. Notes are just small textual items, like to-do lists.
